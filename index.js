@@ -14,7 +14,7 @@ foldersWithSameParent.forEach(element => {
     [domain, port] = element.split('_')
     if (domain && Number(port)) {
         console.log(domain, port)
-        router[domain] = "http://localhost:" + port;
+        router[domain] = "ws://localhost:" + port;
     }
 });
 console.log(router);
