@@ -28,12 +28,7 @@ var options = {
         //'^/api/remove/path': '/path' // remove base path
     },
     router: router
-        //   {
-        //     // when request.headers.host == 'dev.localhost:3000',
-        //     // override target 'http://www.example.org' to 'http://localhost:8000'
-        //     'beta.pituteo.com': 'http://localhost:3000',
-        //     'api.pituteo.com': 'http://localhost:3001'
-        //   }
+      
 };
 
 // create the proxy (without context)
