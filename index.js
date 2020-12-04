@@ -28,7 +28,7 @@ var options = {
         //'^/api/remove/path': '/path' // remove base path
     },
     router: router
-      
+      x1
 };
 
 // create the proxy (without context)

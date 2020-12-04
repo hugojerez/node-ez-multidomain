@@ -2,7 +2,7 @@
 Raise multiple domains in a very simple way
 
 
-## Instalation 
+## Installation 
 ### Step 1
 The first step is to create the files```cert.pem``` and ```key.pem``` , it is necessary to apply the SSL security protocol
 
