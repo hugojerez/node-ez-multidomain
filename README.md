@@ -37,6 +37,7 @@ Note: ```node-ex-multidomain/```must be in the same parent folder, as seen in th
 ![another example](https://i.imgur.com/ncshIRS.png)
 ## The final step
 
+    cd node-ex-multidomain
     npm run start
 
 ### Optional
